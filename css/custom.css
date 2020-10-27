@@ -1,0 +1,13 @@
+#my-container{
+    background-color: red;
+}
+
+.my-col{
+    background-color: blue;
+}
+
+.kb-carousel .carousel-item img{
+    width: 100%;
+    height: calc(100vh - 56px);
+    object-fit: cover;
+}
